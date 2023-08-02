@@ -2,7 +2,7 @@
 
 # Frontend
 
-Thank you for your interest in contributing to the Hop frontend!🐰
+Thank you for your interest in contributing to the Hop frontend!🐰 I forked
 
 ## Development
 
